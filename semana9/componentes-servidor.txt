@@ -1,0 +1,9 @@
+Sistema operativo: Es el software base que administra el hardware y permite ejecutar programas. En Codespaces es Linux (Ubuntu).
+
+Node.js: Entorno de ejecución para JavaScript en el servidor. Interpreta el código y maneja peticiones.
+
+Aplicación server.js: Es el archivo que define las rutas (/, /estado) y la lógica del servidor.
+
+Puerto: Es un número que identifica una puerta lógica donde el servidor escucha peticiones. En este caso, el puerto 3000.
+
+Logs: Son registros de actividad (como console.log) o archivos que almacenan eventos. Sirven para diagnosticar fallos y monitorear el sistema.
